@@ -1,5 +1,3 @@
-2023/11/19-23:41:31.219 b44 Reusing MANIFEST D:/Epic Games/Epic Games/UE_5.3/MyProjects/CabbageEscape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/11/19-23:41:31.220 b44 Recovering log #4
-2023/11/19-23:41:31.220 b44 Level-0 table #7: started
-2023/11/19-23:41:31.249 b44 Level-0 table #7: 16916 bytes OK
-2023/11/19-23:41:31.282 b44 Delete type=0 #4
+2023/11/19-23:50:11.093 40d0 Reusing MANIFEST D:/Epic Games/Epic Games/UE_5.3/MyProjects/CabbageEscape/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/19-23:50:11.098 40d0 Recovering log #8
+2023/11/19-23:50:11.099 40d0 Reusing old log D:/Epic Games/Epic Games/UE_5.3/MyProjects/CabbageEscape/Saved/webcache_4430\Local Storage\leveldb/000008.log 
